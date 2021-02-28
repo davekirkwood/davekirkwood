@@ -21,5 +21,7 @@ I've been a professional Java developer since 2002. Most recently specialising i
 <img src = "linkedin-icon.png" alt = "LinkedIn"/>
 </a>
 
-
+<a href="https://davekirkwood.net" target="_blank">
+<img src = "domain1600.png" width="110" height="110" alt = "My web page"/>
+</a>
 
