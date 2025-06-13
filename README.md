@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I've been a professional Java developer since 2002. Most recently specialising in simulation, focusing on railway network simulation and railway traffic management algorithms. My experience includes Java Desktop, Java Spring and Angular front ends. I have worked on complex software systems, led teams, spoken at conferences and contributed to research papers. My software has been used by Network Rail, Hitachi, Siemens, Thales, China state railways, Indian Railways and many others.
+I've been a professional Java developer since 2002. Most recently specialising in simulation, focusing on railway network simulation and railway traffic management algorithms. My experience includes Java Desktop, Java Spring and React front ends. I have worked on complex software systems, led teams, spoken at conferences and contributed to research papers. My software has been used by Network Rail, Hitachi, Siemens, Thales, China state railways, Indian Railways and many others.
 
 - 🔭 I’m currently working on Train simulators.
-- 🌱 I’m currently learning Rust.
-- 👯 I’m looking to collaborate on Railway simulation and full-stack web projects.
+- 🌱 I’m currently learning Next-JS.
+- 👯 I’m looking to collaborate on Railway/multimodal simulation and full-stack web projects.
 - 📫 How to reach me: <a href="mailto:davekirkwood@hotmail.com">Send Email</a>
 
 #### Follow me elsewhere
